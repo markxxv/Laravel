@@ -4,9 +4,9 @@ My most have libraries list
 ## Must-have 
 
 [.](.)
+[spatie/laravel-tags](https://github.com/spatie/laravel-tags) — Tags for Laravel
 [.](.)
-[.](.)
-[.](.)
+[rinvex/categories](https://github.com/rinvex/categories) — Nested Categories for Laravel
 [awesome-laravel](https://github.com/chiraggude/awesome-laravel) — Awesom Laravel Packages
 
 
