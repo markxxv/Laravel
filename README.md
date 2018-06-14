@@ -3,7 +3,7 @@ My most have libraries list
 
 ## Must-have 
 
-[.](.)
+[laravel-sluggable](https://github.com/spatie/laravel-sluggable) — Simple unique slugs for your model
 [spatie/laravel-tags](https://github.com/spatie/laravel-tags) — Tags for Laravel
 [.](.)
 [rinvex/categories](https://github.com/rinvex/categories) — Nested Categories for Laravel
