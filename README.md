@@ -4,8 +4,13 @@ My most have libraries list
 ## Must-have 
 
 [laravel-sluggable](https://github.com/spatie/laravel-sluggable) — Simple unique slugs for your model
+
+[LaravelCollective/html](https://github.com/LaravelCollective/html) — Flexible forms for Laravel
+[styde/html](https://github.com/StydeNet/html) — Collection of radios and checkboxes & menus
 [spatie/laravel-tags](https://github.com/spatie/laravel-tags) — Tags for Laravel
-[.](.)
+[Intervention/image](https://github.com/Intervention/image) — Simple image resizer & manipulations for Laravel
+[UniSharp/laravel-filemanager ](https://github.com/UniSharp/laravel-filemanager) — Visual file Manager for Laravel
+[arrilot/laravel-widgets](https://github.com/arrilot/laravel-widgets) — Flexible widgets for Laravel
 [rinvex/categories](https://github.com/rinvex/categories) — Nested Categories for Laravel
 [awesome-laravel](https://github.com/chiraggude/awesome-laravel) — Awesom Laravel Packages
 
