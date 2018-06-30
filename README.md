@@ -13,6 +13,7 @@ My most have libraries list
 * [arrilot/laravel-widgets](https://github.com/arrilot/laravel-widgets) — Flexible widgets for Laravel
 * [rinvex/categories](https://github.com/rinvex/categories) — Nested Categories for Laravel
 * [awesome-laravel](https://github.com/chiraggude/awesome-laravel) — Awesom Laravel Packages
+* [awesome-laravel](https://github.com/arrilot/laravel-widgets) — Widgets for Laravel, like a Drupal Blocks but much flexible
 
 
 ## Solutions for futured projects
