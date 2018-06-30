@@ -20,6 +20,7 @@ My most have libraries list
 * [rinvex/bookings](https://github.com/rinvex/bookings) — Booking system for Laravel
 * [laravolt/avatar](https://github.com/laravolt/avatar) — Display unique avatar based on Name and Secondname and random color
 * [lazychaser/laravel-nestedset](https://github.com/lazychaser/laravel-nestedset) — Nested models for Laravel
+* [mewebstudio/purifier](https://github.com/mewebstudio/purifier) — Filtering and beautify HTML inputs
 
 ## Iteresting packages
 
