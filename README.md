@@ -14,6 +14,7 @@ My most have libraries list
 * [rinvex/categories](https://github.com/rinvex/categories) — Nested Categories for Laravel
 * [awesome-laravel](https://github.com/chiraggude/awesome-laravel) — Awesom Laravel Packages
 * [awesome-laravel](https://github.com/arrilot/laravel-widgets) — Widgets for Laravel, like a Drupal Blocks but much flexible
+* [Intervention/image](https://github.com/Intervention/image) — All posibble image manupulation, resize, cut, optimize etc.
 
 
 ## Solutions for futured projects
