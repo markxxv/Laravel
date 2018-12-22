@@ -7,7 +7,7 @@ My most have libraries list
 * [jarektkaczyk/eloquence](https://github.com/jarektkaczyk/eloquence/wiki/Mappable) — Best way for eloquent flexible queries & search
 * [LaravelCollective/html](https://github.com/LaravelCollective/html) — Flexible forms for Laravel
 * [styde/html](https://github.com/StydeNet/html) — Collection of radios and checkboxes & menus
-* [ctf0/Laravel-Media-Manager] https://github.com/ctf0/Laravel-Media-Manager - Best ever file manager for Laravel
+* [ctf0/laravel-media-manager] https://github.com/ctf0/Laravel-Media-Manager - Best ever file manager for Laravel
 * [spatie/laravel-tags](https://github.com/spatie/laravel-tags) — Tags for Laravel
 * [Intervention/image](https://github.com/Intervention/image) — Simple image resizer & manipulations for Laravel
 * [UniSharp/laravel-filemanager ](https://github.com/UniSharp/laravel-filemanager) — Visual file Manager for Laravel
