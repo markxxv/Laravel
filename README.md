@@ -20,6 +20,7 @@ My most have libraries list
 ## Commerce
 
 * [happypixels/laravel-shopr](https://github.com/happypixels/laravel-shopr) — Ultimate e-commerce solution
+* [bagisto/bagisto](https://github.com/bagisto/bagisto) — Simple Store Laravel App
 
 ## Solutions for futured projects
 
