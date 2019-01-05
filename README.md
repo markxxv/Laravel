@@ -17,6 +17,9 @@ My most have libraries list
 * [awesome-laravel](https://github.com/arrilot/laravel-widgets) — Widgets for Laravel, like a Drupal Blocks but much flexible
 * [Intervention/image](https://github.com/Intervention/image) — All posibble image manupulation, resize, cut, optimize etc.
 
+## Commerce
+
+* [happypixels/laravel-shopr](https://github.com/happypixels/laravel-shopr) — Ultimate e-commerce solution
 
 ## Solutions for futured projects
 
