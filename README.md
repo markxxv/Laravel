@@ -31,6 +31,7 @@ My most have libraries list
 
 ## Iteresting packages
 
+* [VanOns/laraberg](https://github.com/VanOns/laraberg) — Gutenberg for Laravel
 * [z-song/laravel-admin](https://github.com/z-song/laravel-admin) — Admin generator helpers
 * [amranidev/scaffold-interface](https://github.com/amranidev/scaffold-interface) — A Smart CRUD Generator For Laravel
 * [bnbwebexpertise/laravel-attachments](https://github.com/bnbwebexpertise/laravel-attachments)  — Laravel-attachments
