@@ -4,6 +4,7 @@ My most have libraries list
 ## Must-have 
 
 * [laravel-sluggable](https://github.com/spatie/laravel-sluggable) — Simple unique slugs for your model
+* [glhd/aire](https://github.com/glhd/aire) — Super Comfortable forms, with ajax validation and chexboxes group
 * [jarektkaczyk/eloquence](https://github.com/jarektkaczyk/eloquence/wiki/Mappable) — Best way for eloquent flexible queries & search
 * [LaravelCollective/html](https://github.com/LaravelCollective/html) — Flexible forms for Laravel
 * [styde/html](https://github.com/StydeNet/html) — Collection of radios and checkboxes & menus
