@@ -29,6 +29,7 @@ My most have libraries list
 * [laravolt/avatar](https://github.com/laravolt/avatar) — Display unique avatar based on Name and Secondname and random color
 * [lazychaser/laravel-nestedset](https://github.com/lazychaser/laravel-nestedset) — Nested models for Laravel
 * [mewebstudio/purifier](https://github.com/mewebstudio/purifier) — Filtering and beautify HTML inputs
+* [seotools](https://github.com/artesaos/seotools) — Seo Tools
 
 ## Iteresting packages
 
