@@ -28,14 +28,15 @@ My most have libraries list
 * [rinvex/bookings](https://github.com/rinvex/bookings) — Booking system for Laravel
 * [laravolt/avatar](https://github.com/laravolt/avatar) — Display unique avatar based on Name and Secondname and random color
 * [lazychaser/laravel-nestedset](https://github.com/lazychaser/laravel-nestedset) — Nested models for Laravel
+* [bnbwebexpertise/laravel-attachments](https://github.com/bnbwebexpertise/laravel-attachments)  — Laravel-attachments
 * [mewebstudio/purifier](https://github.com/mewebstudio/purifier) — Filtering and beautify HTML inputs
 * [seotools](https://github.com/artesaos/seotools) — Seo Tools
+* [Laravel-Phone](https://github.com/Propaganistas/Laravel-Phone) — Phone validation for Laravel
 
 ## Iteresting packages
 
 * [VanOns/laraberg](https://github.com/VanOns/laraberg) — Gutenberg for Laravel
 * [z-song/laravel-admin](https://github.com/z-song/laravel-admin) — Admin generator helpers
 * [amranidev/scaffold-interface](https://github.com/amranidev/scaffold-interface) — A Smart CRUD Generator For Laravel
-* [bnbwebexpertise/laravel-attachments](https://github.com/bnbwebexpertise/laravel-attachments)  — Laravel-attachments
 
 ### To be continued
