@@ -5,9 +5,8 @@ My most have libraries list
 
 * [laravel-sluggable](https://github.com/spatie/laravel-sluggable) — Simple unique slugs for your model
 * [glhd/aire](https://github.com/glhd/aire) — Super Comfortable forms, with ajax validation and chexboxes group
+* [laravel-mediable](https://github.com/plank/laravel-mediable) — easily uploading and attaching media files to models
 * [jarektkaczyk/eloquence](https://github.com/jarektkaczyk/eloquence/wiki/Mappable) — Best way for eloquent flexible queries & search
-* [LaravelCollective/html](https://github.com/LaravelCollective/html) — Flexible forms for Laravel
-* [styde/html](https://github.com/StydeNet/html) — Collection of radios and checkboxes & menus
 * [ctf0/Laravel-Media-Manager](https://github.com/Laravel-Media-Manager) —  https://github.com/ctf0/Laravel-Media-Manager - Best ever file manager for Laravel
 * [spatie/laravel-tags](https://github.com/spatie/laravel-tags) — Tags for Laravel
 * [Intervention/image](https://github.com/Intervention/image) — Simple image resizer & manipulations for Laravel
@@ -17,6 +16,10 @@ My most have libraries list
 * [awesome-laravel](https://github.com/chiraggude/awesome-laravel) — Awesom Laravel Packages
 * [awesome-laravel](https://github.com/arrilot/laravel-widgets) — Widgets for Laravel, like a Drupal Blocks but much flexible
 * [Intervention/image](https://github.com/Intervention/image) — All posibble image manupulation, resize, cut, optimize etc.
+
+## Legacy
+* [LaravelCollective/html](https://github.com/LaravelCollective/html) — Flexible forms for Laravel
+* [styde/html](https://github.com/StydeNet/html) — Collection of radios and checkboxes & menus
 
 ## Commerce
 
