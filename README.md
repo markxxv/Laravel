@@ -16,6 +16,10 @@ My most have libraries list
 * [arrilot/laravel-widgets](https://github.com/arrilot/laravel-widgets) — Flexible widgets for Laravel
 * [awesome-laravel](https://github.com/arrilot/laravel-widgets) — Widgets for Laravel, like a Drupal Blocks but much flexible
 
+## Javascript / JSON
+
+* [Laravel-Overflow](https://github.com/CraftLogan/Laravel-Overflow) — fields values in a JSON or Text column on a database table
+
 ## Legacy
 * [LaravelCollective/html](https://github.com/LaravelCollective/html) — Flexible forms for Laravel
 * [styde/html](https://github.com/StydeNet/html) — Collection of radios and checkboxes & menus
