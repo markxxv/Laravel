@@ -15,6 +15,7 @@ My most have libraries list
 * [awesome-laravel](https://github.com/chiraggude/awesome-laravel) — Awesom Laravel Packages
 * [arrilot/laravel-widgets](https://github.com/arrilot/laravel-widgets) — Flexible widgets for Laravel
 * [awesome-laravel](https://github.com/arrilot/laravel-widgets) — Widgets for Laravel, like a Drupal Blocks but much flexible
+* [translatable](https://github.com/Astrotomic/laravel-translatable) — Add translations to your model
 
 ## Javascript / JSON
 
