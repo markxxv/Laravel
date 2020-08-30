@@ -4,6 +4,7 @@ My most have libraries list
 ## Must-have 
 
 * [laravel-sluggable](https://github.com/spatie/laravel-sluggable) — Simple unique slugs for your model
+* [livewire](https://github.com/livewire/livewire) — A full-stack frontend framework for Laravel that takes the pain out of building dynamic UIs.
 * [glhd/aire](https://github.com/glhd/aire) — Super Comfortable forms, with ajax validation and chexboxes group
 * [laravel-mediable](https://github.com/plank/laravel-mediable) — easily uploading and attaching media files to models
 * [jarektkaczyk/eloquence](https://github.com/jarektkaczyk/eloquence/wiki/Mappable) — Best way for eloquent flexible queries & search
