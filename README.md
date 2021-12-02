@@ -4,6 +4,7 @@ My most have libraries list
 ## Livewire
 
 * [livewire-powergrid](https://github.com/Power-Components/livewire-powergrid) — Tables PowerGrid
+* [rappasoft-tables](https://github.com/rappasoft/laravel-livewire-tables) — Tables 🌱
 * [belich-tables](https://github.com/daguilarm/belich-tables) — Tables
 
 ## Must-have 
