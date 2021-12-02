@@ -1,6 +1,11 @@
 # Laravel
 My most have libraries list
 
+## Livewire
+
+* [livewire-powergrid](https://github.com/Power-Components/livewire-powergrid) — Tables PowerGrid
+* [belich-tables](https://github.com/daguilarm/belich-tables) — Tables
+
 ## Must-have 
 
 * [laravel-sluggable](https://github.com/spatie/laravel-sluggable) — Simple unique slugs for your model
