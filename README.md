@@ -6,6 +6,7 @@ My most have libraries list
 * [livewire-powergrid](https://github.com/Power-Components/livewire-powergrid) — Tables PowerGrid
 * [rappasoft-tables](https://github.com/rappasoft/laravel-livewire-tables) — Tables 🌱
 * [belich-tables](https://github.com/daguilarm/belich-tables) — Tables
+* [blade-sortable](https://github.com/asantibanez/laravel-blade-sortable) — Blade-Sortable
 
 ## Must-have 
 
