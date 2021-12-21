@@ -40,6 +40,7 @@ My most have libraries list
 
 ## Solutions for futured projects
 
+* [geographical calculator](https://github.com/karam-mustafa/laravel-geographical-calculator) — Geographical Calculator
 * [rinvex/bookings](https://github.com/rinvex/bookings) — Booking system for Laravel
 * [laravolt/avatar](https://github.com/laravolt/avatar) — Display unique avatar based on Name and Secondname and random color
 * [lazychaser/laravel-nestedset](https://github.com/lazychaser/laravel-nestedset) — Nested models for Laravel
