@@ -7,6 +7,7 @@ My most have libraries list
 * [rappasoft-tables](https://github.com/rappasoft/laravel-livewire-tables) — Tables 🌱
 * [belich-tables](https://github.com/daguilarm/belich-tables) — Tables
 * [blade-sortable](https://github.com/asantibanez/laravel-blade-sortable) — Blade-Sortable
+* [tall-forms](https://github.com/tanthammar/tall-forms) — TALL Forms
 
 ## Must-have 
 
