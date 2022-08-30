@@ -11,6 +11,7 @@ My most have libraries list
 
 ## Must-have 
 
+* [log viewer](https://github.com/opcodesio/log-viewer) — Log Viewer for Laravel
 * [laravel-sluggable](https://github.com/spatie/laravel-sluggable) — Simple unique slugs for your model
 * [livewire](https://github.com/livewire/livewire) — A full-stack frontend framework for Laravel that takes the pain out of building dynamic UIs.
 * [glhd/aire](https://github.com/glhd/aire) — Super Comfortable forms, with ajax validation and chexboxes group
