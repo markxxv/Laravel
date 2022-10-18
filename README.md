@@ -26,6 +26,7 @@ My most have libraries list
 * [arrilot/laravel-widgets](https://github.com/arrilot/laravel-widgets) — Flexible widgets for Laravel
 * [awesome-laravel](https://github.com/arrilot/laravel-widgets) — Widgets for Laravel, like a Drupal Blocks but much flexible
 * [translatable](https://github.com/Astrotomic/laravel-translatable) — Add translations to your model
+* [adjacency list](https://github.com/staudenmeir/laravel-adjacency-list) — Nested relation models three
 
 ## Javascript / JSON
 
